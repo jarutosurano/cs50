@@ -1,0 +1,15 @@
+{
+  "name": "cs50-1",
+  "version": "1.0.0",
+  "description": "CS50's Introduction to Computer Science",
+  "main": "addFive.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
